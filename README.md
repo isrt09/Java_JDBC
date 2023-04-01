@@ -1,2 +1,2 @@
-# Java_JDBC
+# Java JDBC
 JDBC for Build Database Apps
